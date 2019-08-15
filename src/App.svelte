@@ -28,9 +28,9 @@
     <a href="/api/date">
       <code>api/date</code>
       for the Date API with Node.js
-    </a>
-    <a href="/apip/date">
-      <code>apip/date</code>
+    </a> 
+    <a href="/api/datep">
+      <code>api/datep</code>
       & with Python
     </a>.
   </p>
