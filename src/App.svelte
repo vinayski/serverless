@@ -24,7 +24,7 @@
     </a>
     is contains a serverless
     <a href="https://nodejs.org/en/">Node.js</a>
-    function. See
+    function. <p>See
     <a href="/api/date">
       <code>api/date</code>
       for the Date API with Node.js
