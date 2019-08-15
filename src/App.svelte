@@ -22,13 +22,12 @@
       rel="noreferrer noopener">
       This project
     </a>
-    is contains a serverless
-    <a href="https://nodejs.org/en/">Node.js</a>
-    function. <p>See
+    is contains a serverles functions. <p>
+    See
     <a href="/api/date">
       <code>api/date</code>
       for the Date API with Node.js
-    </a> 
+    </a> <p>
     <a href="/api/datep">
       <code>api/datep</code>
       & with Python
