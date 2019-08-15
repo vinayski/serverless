@@ -24,7 +24,7 @@
   </h2>
   <p>
     <a
-      href="https://github.com/zeit/now-examples/blob/master/svelte-node"
+      href="https://github.com/vinayski/svelte-functions"
       target="_blank"
       rel="noreferrer noopener">
       This project
